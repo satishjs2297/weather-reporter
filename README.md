@@ -27,8 +27,8 @@ Install the dependencies and devDependencies and start the server.
 $ git clone <Weather Reporter git url> weather-reportor
 $ cd weather-reportor
 $ mvn clean install
-$ cd target
-$ java -jar weather-reporter-0.0.1-SNAPSHOT.jar
+$ Import the project into eclipse
+$ Open WeatherReporterApplication.java and right click and Run as Java Application.
 $ Open web browser & hit the url: http://localhost:8080/weather/home
 ```
 
